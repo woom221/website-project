@@ -1,2 +1,3 @@
-# java-practice-rpg-game
-For personal practice
+# CSC 309 react project
+
+Done with a partner
