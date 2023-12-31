@@ -13,6 +13,7 @@ pip install -r requirements.txt
 ### To migrate data (cd to manage.py which is under gym_be directory)
 
 python manage.py makemigrations 
+
 python manage.py migrate
 
 ### To run the server
