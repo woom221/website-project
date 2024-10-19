@@ -29,3 +29,9 @@ npm install
 ### To run the server
 
 npm start
+
+
+## Preview
+
+![](project-fitness-web.png?raw=true)
+
